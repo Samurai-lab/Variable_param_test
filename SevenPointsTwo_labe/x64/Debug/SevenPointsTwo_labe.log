@@ -1,0 +1,6 @@
+﻿  SevenPointsTwo_labe.cpp
+C:\Users\brazk\source\repos\SevenPointsTwo_labe\SevenPointsTwo_labe\SevenPointsTwo_labe.cpp(7,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\brazk\source\repos\SevenPointsTwo_labe\SevenPointsTwo_labe\SevenPointsTwo_labe.cpp(15,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\brazk\source\repos\SevenPointsTwo_labe\SevenPointsTwo_labe\SevenPointsTwo_labe.cpp(46,26): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\brazk\source\repos\SevenPointsTwo_labe\SevenPointsTwo_labe\SevenPointsTwo_labe.cpp(46,22): warning C4101: x3: неиспользованная локальная переменная
+  SevenPointsTwo_labe.vcxproj -> C:\Users\brazk\source\repos\SevenPointsTwo_labe\x64\Debug\SevenPointsTwo_labe.exe
